@@ -73,7 +73,4 @@ Pastikan emulator Android sudah berjalan atau perangkat Android sudah terhubung.
 | Mata Kuliah | Pemrograman Mobile |
 | Judul Tugas | Implementasi Tampilan Komponen WebView pada Arsitektur Fabric React Native |
 
-
----
-
 *Dibuat untuk memenuhi tugas mata kuliah Pemrograman Mobile.*
